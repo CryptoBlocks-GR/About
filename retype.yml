@@ -1,6 +1,6 @@
 input: .
 cache.busting.strategy: none
-url: # Add your website address here
+url: https://cryptoblocks-gr.github.io/About/
 cname: false
 favicon: Images/Brand/Logo.png
 
