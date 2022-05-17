@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://cryptoblocks-gr.github.io/About/sitemap.xml.gz
+Sitemap: http://about.cryptoblocks.gr/sitemap.xml.gz
