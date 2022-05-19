@@ -2,8 +2,8 @@
 description: 
 ---
 
-# Home
+# About Us
 
 -![](/Images/Covers/Cover.jpeg)
 
-## Hello
+## About us
